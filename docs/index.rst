@@ -1,4 +1,4 @@
-How to Download, Install & Activate Webroot SecureAnywhere Using Webroot Safe
+How to Download, Install & Activate Webroot SecureAnywhere Using Webroot Safe Geek Squad Download
 ===================================================================================
 
 Are you trying to set up your newly purchased Webroot antivirus on your PC or Mac? Whether you've just purchased the software or you're reinstalling it, this complete guide will help you understand how to **Download, Install, and Activate Webroot SecureAnywhere using Webroot.com/Safe**.
@@ -95,6 +95,45 @@ After installing Webroot, the next crucial step is activation:
 6. Once activated, your subscription period will begin, and protection will be fully enabled.
 
 Congratulations! You've successfully **activated Webroot Safe** on your system.
+
+How to Download Webroot From Geek Squad Subscription?
+-------------------------------------------------------
+
+If you purchased your Webroot subscription through Geek Squad or Best Buy, here’s how you can download it:
+
+1. Visit the Geek Squad portal at:  
+   `https://www.webroot.com/gsdownload <https://www.webroot.com/gsdownload>`_
+
+2. Enter your **email address** and the **last 4 digits** of your phone number used during purchase.
+
+3. Your subscription will be verified, and you’ll be directed to the download page.
+
+4. Click **Download Now** to get your Webroot installer.
+
+5. Follow the on-screen instructions to complete the installation.
+
+This version comes pre-activated based on your Geek Squad license. You don’t need a product key in most cases, but you can manage your protection via your Webroot account.
+
+How to Install Webroot SecureAnywhere on Windows or Mac
+--------------------------------------------------------
+
+Once the installer has finished downloading:
+
+1. Locate the downloaded file (usually named `wsainstall.exe` on Windows or `.dmg` on Mac).
+
+2. Double-click the file to run the installer.
+
+3. If asked, enter your administrator credentials or allow permissions.
+
+4. When prompted, enter your 20-digit Webroot keycode.
+
+5. Accept the terms and conditions, then click **Install**.
+
+6. The software will now install. This typically takes just a few minutes.
+
+7. Once installation completes, Webroot SecureAnywhere will open automatically and start scanning your system.
+
+This completes the **Webroot SecureAnywhere install** step. Make sure your internet connection stays active during installation.
 
 Creating or Managing Your Webroot Account
 ------------------------------------------
